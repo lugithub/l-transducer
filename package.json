@@ -1,7 +1,7 @@
 {
   "name": "l-transducer",
   "version": "1.0.0",
-  "description": "",
+  "description": "[understanding transducers in javascript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lugithub/l-transducer/issues"
   },
-  "homepage": "https://github.com/lugithub/l-transducer#readme"
+  "homepage": "https://github.com/lugithub/l-transducer#readme",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
 }
